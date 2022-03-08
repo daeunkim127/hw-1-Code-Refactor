@@ -10,6 +10,11 @@
 * alt is added to each image file.
 * Figure element is added to html.
 
+The following image demonstrates the web application's appearance after refactoring (same as the appearance before refactoring):
+
+![The blog page is screenshot of edited website.](./assets/images/Final screenshot of website.png)
+
+--- 
 
 
 
