@@ -12,9 +12,8 @@
 
 The following image demonstrates the web application's appearance after refactoring (same as the appearance before refactoring):
 
-![The blog page is screenshot of edited website.](./assets/images/Final screenshot of website.png)
+![alt Final portfolio.](https://raw.githubusercontent.com/daeunkim127/hw-1-Code-Refactor/main/assets/images/Final%20screenshot%20of%20website.png)
 
---- 
 
 
 
