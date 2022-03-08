@@ -12,7 +12,7 @@
 
 The following image demonstrates the web application's appearance after refactoring (same as the appearance before refactoring):
 
-![alt Final portfolio.](https://raw.githubusercontent.com/daeunkim127/hw-1-Code-Refactor/main/assets/images/Final%20screenshot%20of%20website.png)
+![alt Final portfolio](https://raw.githubusercontent.com/daeunkim127/hw-1-Code-Refactor/main/assets/images/Final%20screenshot%20of%20website.png)
 
 
 
